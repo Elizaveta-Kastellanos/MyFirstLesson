@@ -1,5 +1,4 @@
 import math
-from turtle import right
 # Homework
 
 # 1. Напишите программу, которая принимает на вход цифру, обозначающую день недели, 
